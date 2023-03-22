@@ -1,0 +1,12 @@
+C:\Users\Avchor\source\repos\Neva\Neva\bin\Debug\Neva.exe.config
+C:\Users\Avchor\source\repos\Neva\Neva\bin\Debug\Neva.exe
+C:\Users\Avchor\source\repos\Neva\Neva\bin\Debug\Neva.pdb
+C:\Users\Avchor\source\repos\Neva\Neva\obj\Debug\Neva.csproj.AssemblyReference.cache
+C:\Users\Avchor\source\repos\Neva\Neva\obj\Debug\Neva.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avchor\source\repos\Neva\Neva\obj\Debug\Neva.Form1.resources
+C:\Users\Avchor\source\repos\Neva\Neva\obj\Debug\Neva.Properties.Resources.resources
+C:\Users\Avchor\source\repos\Neva\Neva\obj\Debug\Neva.csproj.GenerateResource.cache
+C:\Users\Avchor\source\repos\Neva\Neva\obj\Debug\Neva.csproj.CoreCompileInputs.cache
+C:\Users\Avchor\source\repos\Neva\Neva\obj\Debug\Neva.exe
+C:\Users\Avchor\source\repos\Neva\Neva\obj\Debug\Neva.pdb
+C:\Users\Avchor\source\repos\Neva\Neva\obj\Debug\Neva.Form2.resources
